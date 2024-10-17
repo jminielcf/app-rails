@@ -5,6 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
+* add-bootstrap en rails 7 
+   referencia : https://gist.github.com/rubyandcoffee/592cdf13586548a7a26c30adeeb7adc2
+
 * Ruby version
 
 * System dependencies
