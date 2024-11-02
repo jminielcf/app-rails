@@ -3,3 +3,5 @@ import "@hotwired/turbo-rails"
 import "controllers"
 import "popper"
 import "bootstrap"
+import Swal from 'sweetalert2';
+window.Swal = Swal;
